@@ -3,6 +3,14 @@
   "version": "4.2.0",
   "description": "validate form fields using regexp",
   "main": "index.js",
+  "repogitory": {
+    "type": "git",
+    "url": "https://github.com/pradchat/npm-packages.git"
+  },
+  "homepage": "https://github.com/pradchat/npm-packages/tree/form-field-isvalid",
+  "bugs": {
+    "url": "https://github.com/pradchat/npm-packages/issues"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,5 +18,5 @@
     "validate field"
   ],
   "author": "pradipta chatterjee",
-  "license": "ISC"
+  "license": "NA"
 }
