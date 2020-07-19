@@ -1,0 +1,14 @@
+{
+  "name": "form-field-isvalid",
+  "version": "3.0.0",
+  "description": "validate form fields using regexp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validate field"
+  ],
+  "author": "pradipta chatterjee",
+  "license": "ISC"
+}
