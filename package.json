@@ -1,6 +1,6 @@
 {
   "name": "form-field-isvalid",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "validate form fields using regexp",
   "main": "index.js",
   "scripts": {
