@@ -1,0 +1,27 @@
+{
+  "name": "@think-smart/text-utility",
+  "version": "1.0.0",
+  "description": "validate and customize text",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradchat/npm-packages.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "homepage": "https://github.com/pradchat/npm-packages/blob/text-utility/README.md",
+  "bugs": {
+    "url": "https://github.com/pradchat/npm-packages/issues",
+    "email": "pr.chat86@gmail.com"
+  },
+  "scripts": {},
+  "keywords": [
+    "validate text",
+    "customize text",
+    "regexp validate text",
+    "regexp customize text"
+  ],
+  "author": "Pradipta Chatterjee <pr.chat86@gmail.com>",
+  "license": "UNLICENSED"
+}
