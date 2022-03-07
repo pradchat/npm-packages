@@ -1,6 +1,6 @@
 {
-  "name": "@think-smart/text-utility",
-  "version": "1.0.0",
+  "name": "@pradchat/text-utility",
+  "version": "1.0.1",
   "description": "validate and customize text",
   "main": "index.js",
   "repository": {
