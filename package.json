@@ -1,5 +1,5 @@
 {
-  "name": "@think-smart/form-validator",
+  "name": "@pradchat/form-validator",
   "version": "1.0.0",
   "description": "Validate and format form-fields",
   "main": "index.js",
